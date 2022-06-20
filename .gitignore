@@ -1,0 +1,6 @@
+tax-reader/files/
+tax-reader/税收匹配.yml
+tax-reader/vendor
+Gemfile.lock
+yarn.lock
+databug/node_modules

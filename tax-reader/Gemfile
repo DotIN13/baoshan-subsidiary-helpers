@@ -1,0 +1,17 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# gem "rails"
+
+# group :development do
+#   gem "rubocop", "~> 1.18"
+# end
+
+gem "pdf-reader", "~> 2.5"
+
+gem "roo", "~> 2.8"
+
+gem "roo-xls", "~> 1.2"
